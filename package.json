@@ -1,0 +1,11 @@
+{
+  "name": "issue-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "sylvain.pras@jetpulp.fr",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  }
+}
